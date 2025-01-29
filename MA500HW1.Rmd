@@ -1,0 +1,213 @@
+---
+title: "Survey Analysis Questions and Answers"
+author: "Chang Lu"
+date: "2025-01-28"
+output: pdf_document
+---
+
+### Question 4
+
+**Question**:
+Potential jurors in most Pennsylvania counties are sampled randomly from a list of county residents who are registered voters or licensed drivers over age 18. In 2017, 1,224,826 jury summons were mailed to residents of Pennsylvania on the list. About 91,000 of those were returned from the post office as undeliverable; for another 284,000 of the summons, no one responded. Approximately 153,000 persons were unqualified for service because they were not citizens, were under 18, were convicted felons, or had other reasons that disqualified them from serving on a jury. An additional 187,000 were exempted or excused from jury service because of age, illness, financial hardship, military service, or another acceptable reason. The final sample consisted of 246,000 persons who were told to report for service and reported.
+
+**Answer**:
+
+- **Target Population**: All Pennsylvania residents eligible for jury duty (over 18, U.S. citizens, and not disqualified).
+- **Sampling Frame**: A list of registered voters and licensed drivers over 18 in Pennsylvania.
+- **Sampling Unit**: An individual on the list of registered voters or licensed drivers.
+- **Observation Unit**: Individuals who respond to the jury summons.
+- **Sources of Bias**: Undeliverable summons, non-response, disqualifications, and exemptions may exclude certain demographics and introduce bias.
+
+
+
+### Question 8
+
+**Question**:
+To study nutrient content of menus in boarding homes for the elderly in Washington State, Goren et al. (1993) mailed surveys to all 184 licensed homes in Washington State, directed to the administrator and food service manager. Of those, 43 were returned by the deadline and included menus.
+
+**Answer**:
+
+- **Target Population**: All licensed boarding homes for the elderly in Washington State.
+- **Sampling Frame**: The 184 licensed boarding homes.
+- **Sampling Unit**: Each licensed boarding home.
+- **Observation Unit**: Menus provided by the homes that responded.
+- **Sources of Bias**: Non-response bias (only 43 of 184 returned) and exclusion of unlicensed homes.
+
+
+### Question 13
+
+**Question**:
+In October 2018, each of the 15,769 persons in the current membership list of the American Statistical Association (ASA) was sent an email with a survey about members' experiences of sexual or gender-based misconduct at ASA events. A total of 3,191 persons completed the survey.
+
+**Answer**:
+
+- **Target Population**: All members of the ASA who might have experienced or witnessed misconduct.
+- **Sampling Frame**: The 15,769 members of the ASA.
+- **Sampling Unit**: Each ASA member.
+- **Observation Unit**: Individual responses to the survey.
+- **Sources of Bias**: Non-response bias, self-selection bias, and recall bias.
+
+
+### Question 17
+
+#### Question:
+Theoharakis and Skordia (2003) asked statisticians to rank statistics journals in terms of prestige, importance, and usefulness. They gathered email addresses for 12,053 statisticians and received 2,190 responses.
+
+**Answer**:
+
+- **Target Population**: Statisticians familiar with statistics journals.
+- **Sampling Frame**: The 12,053 statisticians from online directories.
+- **Sampling Unit**: Each statistician contacted.
+- **Observation Unit**: Responses to the ranking survey.
+- **Sources of Bias**: Non-response bias, coverage bias, and subjectivity in rankings.
+
+
+### Question 19
+
+**Question**:
+The November 2019 issue of Consumer Reports contained satisfaction scores for 53 automobile insurance providers from a survey of 90,352 Consumer Reports members. The organization has more than 6 million members. Under what circumstances will the statement "54 percent of its members have been with their current company for 15 years or more" be accurate?
+
+**Answer**:
+
+- **Target Population**: Automobile insurance customers in the U.S.
+- **Sampling Frame**: The 6 million Consumer Reports members.
+- **Sampling Unit**: Each Consumer Reports member surveyed.
+- **Observation Unit**: Individual satisfaction scores.
+- **Accuracy of Statement**: Requires a representative sample, no response bias, and accurate survey design.
+
+
+
+### Question 23
+
+**Question**:
+A medical clinic conducts in-person exit interviews with patients to assess satisfaction with healthcare services. Every 20th person entering the clinic is selected to be interviewed.
+
+**Answer**:
+
+- **Target Population**: All patients visiting the medical clinic.
+- **Sampling Frame**: Patients entering the clinic during the survey period.
+- **Sampling Unit**: Every 20th patient.
+- **Observation Unit**: Individual responses to the interview.
+- **Sources of Bias**: Systematic bias, non-response bias, and exclusion of certain groups.
+
+
+
+### Question 26
+
+**Question**:
+A television station in Phoenix, Arizona, asked viewers to visit its website to answer the survey question "Should Arizona participate in daylight savings time?" The poll showed 10% yes and 90% no.
+
+**Answer**:
+
+- **Target Population**: Arizona residents with opinions on daylight savings time.
+- **Sampling Frame**: Viewers of the television station who visited its website.
+- **Sampling Unit**: Each viewer responding to the online poll.
+- **Observation Unit**: Individual responses to the poll.
+- **Sources of Bias**: Self-selection bias, coverage bias, and wording bias.
+
+### Question 32
+
+**Question**:
+Evaluate each of the following survey questions (most came from real surveys) according to the criteria in Section 1.5. Which (if any) problem or problems (for example, leading or double-barreled) does the question exhibit? What is the concept of interest, and how would you rewrite the question to measure it?
+
+**Answer**:
+
+(a) How many potatoes did you eat last year?
+- **Problem**: Recall bias; most respondents cannot accurately estimate annual potato consumption.
+- **Concept of Interest**: Potato consumption.
+- **Revised Question**: "On average, how many servings of potatoes do you eat per week?"
+
+(b) Have you seen Citizen Kane?
+- **Problem**: Leading question; assumes agreement with the assertion that it is the greatest American movie.
+- **Concept of Interest**: Movie familiarity.
+- **Revised Question**: "Have you seen the movie Citizen Kane?"
+
+(c) Do you favor or oppose changing environmental regulations?
+- **Problem**: Double-barreled question; combines protection and cost concerns.
+- **Concept of Interest**: Opinion on environmental regulations.
+- **Revised Question**: "Do you favor or oppose changing environmental regulations to reduce costs for businesses?"
+
+(d) Agree or disagree: We should not oppose policies that reduce carbon emissions.
+- **Problem**: Double negative; confusing phrasing.
+- **Concept of Interest**: Opinion on carbon emission policies.
+- **Revised Question**: "Do you support policies that aim to reduce carbon emissions?"
+
+(e) How many of your close friends use marijuana products?
+- **Problem**: Privacy concerns and potential underreporting.
+- **Concept of Interest**: Perception of marijuana use among peers.
+- **Revised Question**: "What percentage of your close friends, if any, do you think use marijuana products?"
+
+(f) Do you want a candidate who makes history based on identity factors?
+- **Problem**: Leading and emotionally charged.
+- **Concept of Interest**: Candidate preferences.
+- **Revised Question**: "Do you consider a candidate's race, gender, sexual orientation, or religion when voting?"
+
+(g) Who was or is the worst president in U.S. history?
+- **Problem**: Leading question; emotionally charged.
+- **Concept of Interest**: Opinions on presidents.
+- **Revised Question**: "In your opinion, which U.S. president faced the greatest challenges during their term?"
+
+(h) Agree or disagree: Health care is not a right; it is a privilege.
+- **Problem**: Controversial and emotionally charged phrasing.
+- **Concept of Interest**: Opinion on health care rights.
+- **Revised Question**: "Do you believe access to health care is a basic human right?"
+
+(i) Should the UK produce natural gas from shale?
+- **Problem**: Lengthy and includes irrelevant information.
+- **Concept of Interest**: Opinion on shale gas production.
+- **Revised Question**: "Do you think the UK should produce natural gas from shale?"
+
+(j) How far do you usually walk each day?
+- **Problem**: Ambiguity; does not specify units.
+- **Concept of Interest**: Daily walking distance.
+- **Revised Question**: "On average, how many miles or kilometers do you walk per day?"
+
+(k) Do you support or oppose gun control?
+- **Problem**: Too broad; "gun control" can mean different things to different people.
+- **Concept of Interest**: Opinion on specific gun control measures.
+- **Revised Question**: "Do you support or oppose background checks for gun purchases?"
+
+(l) Looking back, do you regret having moved so rapidly to be divorced, and do you now feel that had you waited, the marriage might have been salvaged?
+- **Problem**: Leading question; emotionally charged and assumes regret.
+- **Concept of Interest**: Attitudes about past decisions regarding divorce.
+- **Revised Question**: "How do you feel about the timing of your divorce decision?"
+
+(m) Are the Patriots and the Packers good football teams?
+- **Problem**: Ambiguity and subjective interpretation of "good."
+- **Concept of Interest**: Opinions on specific football teams.
+- **Revised Question**: "How would you rate the performance of the Patriots and the Packers on a scale of 1 to 10?"
+
+(n) How alarmed are you by melting ice, rising sea levels, and increased flooding of coastal cities?
+- **Problem**: Leading and emotionally charged.
+- **Concept of Interest**: Concern about environmental changes.
+- **Revised Question**: "What level of concern do you have about rising sea levels and coastal flooding?"
+
+(o) How strong was your emotional reaction to the performance of La Bohème?
+- **Problem**: Ambiguity if the respondent has not seen the performance.
+- **Concept of Interest**: Emotional response to the performance.
+- **Revised Question**: "If you attended, how would you rate your emotional response to La Bohème on a scale of 1 to 5?"
+
+(p) How often do you wish you hadn't gotten into a relationship with your current partner?
+- **Problem**: Emotionally charged and potentially invasive.
+- **Concept of Interest**: Satisfaction in relationships.
+- **Revised Question**: "How satisfied are you with your current relationship?"
+
+(q) Do you believe that for every dollar of tax increase there should be $2.00 in spending cuts?
+- **Problem**: Complex and may confuse respondents.
+- **Concept of Interest**: Views on tax policy and spending cuts.
+- **Revised Question**: "What is your opinion on balancing tax increases with spending cuts?"
+
+(r) There probably won't be a woman president of the United States for a long time, and that's probably just as well.
+- **Problem**: Leading and dismissive.
+- **Concept of Interest**: Opinions on women in leadership roles.
+- **Revised Question**: "Do you believe a woman will be elected president in the near future?"
+
+(s) How satisfied are you that your health insurance plan covers what you expect it to cover?
+- **Problem**: Ambiguity; "what you expect" varies between respondents.
+- **Concept of Interest**: Satisfaction with health insurance coverage.
+- **Revised Question**: "How satisfied are you with your current health insurance plan's coverage?"
+
+(t) Given the world situation, does the government protect too many documents by classifying them as secret and top secret?
+- **Problem**: Leading and assumes over-classification.
+- **Concept of Interest**: Opinions on government classification of documents.
+- **Revised Question**: "Do you believe the government classifies an appropriate amount of documents as secret or top secret?"
